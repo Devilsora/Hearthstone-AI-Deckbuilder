@@ -1,0 +1,837 @@
+
+Cards: 
+Murloc Tidecaller
+Swamp Dragon Egg
+Ice Fishing
+Loot Hoarder
+Plated Beetle
+Tuskarr Fisherman
+Whirliglider
+Drakkari Defender
+Eggnapper
+Kaboom Bot
+Mindbreaker
+Stonehill Defender
+Hoarding Dragon
+Hoarding Dragon
+Piloted Reaper
+Ticking Abomination
+Ticking Abomination
+Weaponized Piñata
+Weaponized Piñata
+Abomination
+Carnivorous Cube
+Rotten Applebaum
+Bone Drake
+Illidan Stormrage
+The Beast
+Countess Ashmore
+Furious Ettin
+Deranged Doctor
+Violet Wurm
+Sleepy Dragon
+ 
+Mana Curve
+0: 0
+1: 2
+2: 5
+3: 5
+4: 7
+5: 3
+6: 3
+7: 2
+8: 2
+9: 1
+10: 0
+Cards: 
+Fire Fly
+Leper Gnome
+Swamp Dragon Egg
+Loot Hoarder
+Plated Beetle
+Wild Pyromancer
+Blackwald Pixie
+Harvest Golem
+Healing Rain
+Igneous Elemental
+Igneous Elemental
+Imp Master
+Nightmare Amalgam
+Ancient Brewmaster
+Cursed Disciple
+Hoarding Dragon
+Scaleworm
+Weaponized Piñata
+Rotten Applebaum
+Rotten Applebaum
+Windshear Stormcaller
+Bone Drake
+Bone Drake
+Hungry Ettin
+The Beast
+Sated Threshadon
+Deranged Doctor
+Violet Wurm
+Mecha'thun
+Sea Giant
+ 
+Mana Curve
+0: 0
+1: 3
+2: 3
+3: 7
+4: 5
+5: 3
+6: 4
+7: 1
+8: 2
+9: 0
+10: 2
+Cards: 
+Goldshire Footman
+Leper Gnome
+Leper Gnome
+Swamp Dragon Egg
+Baleful Banker
+Loot Hoarder
+Plated Beetle
+Stubborn Gastropod
+Blackwald Pixie
+Far Sight
+Kaboom Bot
+Kaboom Bot
+Lone Champion
+Cursed Disciple
+Ogre Magi
+Omega Defender
+Piloted Reaper
+Ticking Abomination
+Ticking Abomination
+Abomination
+Carnivorous Cube
+Rotten Applebaum
+Rotten Applebaum
+Thrall, Deathseer
+Bone Drake
+Gelbin Mekkatorque
+Baron Geddon
+Deranged Doctor
+Splitting Festeroot
+Violet Wurm
+ 
+Mana Curve
+0: 0
+1: 4
+2: 4
+3: 5
+4: 6
+5: 5
+6: 2
+7: 1
+8: 3
+9: 0
+10: 0
+Cards: 
+Ancestral Healing
+Totemic Might
+Dust Devil
+Gravelsnout Knight
+Leper Gnome
+Swamp Dragon Egg
+Swamp Dragon Egg
+Loot Hoarder
+Plated Beetle
+Deathspeaker
+Harvest Golem
+Harvest Golem
+Igneous Elemental
+Jungle Panther
+Vryghoul
+Ancient Brewmaster
+Hoarding Dragon
+Hoarding Dragon
+Shimmering Courser
+Abomination
+Carnivorous Cube
+Rotten Applebaum
+Wargear
+Bone Drake
+Furious Ettin
+Sated Threshadon
+Sated Threshadon
+Ragnaros the Firelord
+Violet Wurm
+Violet Wurm
+ 
+Mana Curve
+0: 2
+1: 5
+2: 2
+3: 6
+4: 4
+5: 4
+6: 1
+7: 3
+8: 3
+9: 0
+10: 0
+Cards: 
+Dire Mole
+Emerald Hive Queen
+Goblin Bomb
+Murloc Raider
+Swamp Dragon Egg
+Ancient Watcher
+Bloodmage Thalnos
+Dire Wolf Alpha
+Loot Hoarder
+Plated Beetle
+Harvest Golem
+Igneous Elemental
+Igneous Elemental
+Marsh Drake
+Primal Talismans
+Primal Talismans
+Hoarding Dragon
+Piloted Reaper
+Rattling Rascal
+Ticking Abomination
+Tidal Surge
+Carnivorous Cube
+Loose Specimen
+Rotten Applebaum
+Archmage
+Bone Drake
+Sated Threshadon
+Deranged Doctor
+Deranged Doctor
+Violet Wurm
+ 
+Mana Curve
+0: 0
+1: 5
+2: 5
+3: 6
+4: 5
+5: 3
+6: 2
+7: 1
+8: 3
+9: 0
+10: 0
+Cards: 
+Emerald Hive Queen
+Secretkeeper
+Ancestral Spirit
+Ancient Watcher
+Murkspark Eel
+River Crocolisk
+Rockpool Hunter
+Eggnapper
+Harvest Golem
+Kaboom Bot
+Vryghoul
+Hoarding Dragon
+Keening Banshee
+The Voraxx
+Ticking Abomination
+Ticking Abomination
+Weaponized Piñata
+Abomination
+Abomination
+Earth Elemental
+Gurubashi Berserker
+Rotten Applebaum
+Bone Drake
+Bone Drake
+Spark Drill
+The Beast
+Sated Threshadon
+Deranged Doctor
+Splitting Festeroot
+Mecha'thun
+ 
+Mana Curve
+0: 0
+1: 2
+2: 5
+3: 4
+4: 6
+5: 5
+6: 4
+7: 1
+8: 2
+9: 0
+10: 1
+Cards: 
+Wisp
+Bloodsail Corsair
+Goblin Bomb
+Lightwarden
+Swamp Dragon Egg
+Swamp Leech
+Amani Berserker
+Lost Spirit
+Omega Mind
+Igneous Elemental
+Kaboom Bot
+Murloc Warleader
+Dread Corsair
+Hoarding Dragon
+Hoarding Dragon
+Unpowered Steambot
+Abomination
+Abomination
+Carnivorous Cube
+Rotten Applebaum
+Bone Drake
+Lord of the Arena
+Sylvanas Windrunner
+The Beast
+Core Hound
+Sated Threshadon
+Sated Threshadon
+Splitting Festeroot
+Violet Wurm
+Violet Wurm
+ 
+Mana Curve
+0: 1
+1: 5
+2: 3
+3: 3
+4: 4
+5: 4
+6: 4
+7: 3
+8: 3
+9: 0
+10: 0
+Cards: 
+Air Elemental
+Frost Shock
+Swamp Dragon Egg
+Swamp Dragon Egg
+Unstable Evolution
+Acidic Swamp Ooze
+Amani Berserker
+Ice Fishing
+Plated Beetle
+Youthful Brewmaster
+Eggnapper
+Igneous Elemental
+Lava Burst
+Lava Burst
+Vryghoul
+Cursed Disciple
+Grave Shambler
+Grim Necromancer
+Hoarding Dragon
+Replicating Menace
+Carnivorous Cube
+Carnivorous Cube
+Bone Drake
+Cairne Bloodhoof
+The Beast
+Silver Vanguard
+Deranged Doctor
+Splitting Festeroot
+Violet Wurm
+Mecha'thun
+ 
+Mana Curve
+0: 0
+1: 5
+2: 5
+3: 5
+4: 5
+5: 2
+6: 3
+7: 1
+8: 3
+9: 0
+10: 1
+Cards: 
+Snowflipper Penguin
+Forked Lightning
+Shieldbearer
+Doomsayer
+Plated Beetle
+Plated Beetle
+Feral Spirit
+Harvest Golem
+Hot Spring Guardian
+Igneous Elemental
+Phantom Militia
+Primalfin Lookout
+Vryghoul
+Arfus
+Hoarding Dragon
+Hoarding Dragon
+Rattling Rascal
+Ticking Abomination
+Ticking Abomination
+Weaponized Piñata
+Abomination
+Abomination
+Carnivorous Cube
+Rotten Applebaum
+Witchwood Grizzly
+Frozen Crusher
+Blazecaller
+Sated Threshadon
+Deranged Doctor
+Mecha'thun
+ 
+Mana Curve
+0: 1
+1: 2
+2: 3
+3: 7
+4: 7
+5: 5
+6: 1
+7: 2
+8: 1
+9: 0
+10: 1
+Cards: 
+Mecharoo
+Swamp Dragon Egg
+Swamp Dragon Egg
+Master Swordsmith
+Coldlight Oracle
+Harvest Golem
+Hench-Clan Thug
+Jungle Panther
+Lightning Storm
+Shallow Gravedigger
+Tanglefur Mystic
+Tar Creeper
+Tinkmaster Overspark
+Hoarding Dragon
+Hoarding Dragon
+Piloted Reaper
+Piloted Reaper
+Ticking Abomination
+Ticking Abomination
+Weaponized Piñata
+Abomination
+Carnivorous Cube
+Dollmaster Dorian
+Bone Drake
+Eureka!
+Sylvanas Windrunner
+Sated Threshadon
+Violet Wurm
+Malygos
+Mecha'thun
+ 
+Mana Curve
+0: 0
+1: 3
+2: 1
+3: 9
+4: 7
+5: 3
+6: 3
+7: 1
+8: 1
+9: 1
+10: 1
+Cards: 
+Bloodsail Corsair
+Leper Gnome
+Leper Gnome
+Bloodfen Raptor
+Earthen Might
+Faerie Dragon
+Loot Hoarder
+Plated Beetle
+Kaboom Bot
+Rummaging Kobold
+Scarlet Crusader
+Void Ripper
+Hoarding Dragon
+Hoarding Dragon
+Kobold Monk
+Piloted Reaper
+Ticking Abomination
+Violet Teacher
+Weaponized Piñata
+Carnivorous Cube
+Frozen Crusher
+Nerubian Unraveler
+Spark Drill
+The Beast
+Sated Threshadon
+Sated Threshadon
+Deranged Doctor
+Deranged Doctor
+Violet Wurm
+Mecha'thun
+ 
+Mana Curve
+0: 0
+1: 3
+2: 5
+3: 4
+4: 7
+5: 1
+6: 4
+7: 2
+8: 3
+9: 0
+10: 1
+Cards: 
+Air Elemental
+Mecharoo
+Secretkeeper
+Swamp Dragon Egg
+Swamp Dragon Egg
+Acidic Swamp Ooze
+Plated Beetle
+Blood Knight
+Electrowright
+Jungle Panther
+Kaboom Bot
+Mindbreaker
+Vryghoul
+Ancient Brewmaster
+Cursed Disciple
+Cursed Disciple
+Hoarding Dragon
+Piloted Reaper
+Ticking Abomination
+Weaponized Piñata
+Carnivorous Cube
+Earth Elemental
+Muck Hunter
+Bone Drake
+Boulderfist Ogre
+The Beast
+Sated Threshadon
+Deranged Doctor
+Violet Wurm
+Mecha'thun
+ 
+Mana Curve
+0: 0
+1: 5
+2: 2
+3: 6
+4: 7
+5: 3
+6: 3
+7: 1
+8: 2
+9: 0
+10: 1
+Cards: 
+Blessing of Wisdom
+Bloodsail Corsair
+Dire Mole
+Goldshire Footman
+The Last Kaleidosaur
+Cathedral Gargoyle
+Crazed Alchemist
+Golakka Crawler
+Rebuke
+Spellshifter
+Youthful Brewmaster
+Blood Knight
+Fungal Enchanter
+Giant Wasp
+Humongous Razorleaf
+Injured Blademaster
+Mind Control Tech
+Primalfin Lookout
+Vicious Fledgling
+Consecration
+Coppertail Imposter
+Defender of Argus
+Gentle Megasaur
+Gentle Megasaur
+Lightfused Stegodon
+Omega Defender
+Witchwood Grizzly
+Bonemare
+Dinosize
+Alexstrasza
+ 
+Mana Curve
+0: 0
+1: 5
+2: 6
+3: 8
+4: 7
+5: 1
+6: 0
+7: 0
+8: 2
+9: 1
+10: 0
+Cards: 
+Emerald Hive Queen
+Glacial Shard
+Swamp Dragon Egg
+Plated Beetle
+Plated Beetle
+Blood Knight
+Drakkari Enchanter
+Harvest Golem
+Jungle Panther
+Kaboom Bot
+Raging Worgen
+Vicious Fledgling
+Vryghoul
+Hoarding Dragon
+Keening Banshee
+Omega Defender
+Piloted Reaper
+Piloted Reaper
+Replicating Menace
+Stegodon
+Abomination
+Abomination
+Nesting Roc
+Bone Drake
+Bone Drake
+Cairne Bloodhoof
+Spark Drill
+Sated Threshadon
+Splitting Festeroot
+Violet Wurm
+ 
+Mana Curve
+0: 0
+1: 3
+2: 2
+3: 8
+4: 7
+5: 3
+6: 4
+7: 1
+8: 2
+9: 0
+10: 0
+Cards: 
+Wisp
+Lightwarden
+Stonetusk Boar
+Stonetusk Boar
+Bluegill Warrior
+Bluegill Warrior
+Cloakscale Chemist
+Golakka Crawler
+Misdirection
+Sunfury Protector
+Wolfrider
+Wolfrider
+Dread Corsair
+Old Murk-Eye
+Prince Valanar
+Stormwind Knight
+Stormwind Knight
+Unpowered Steambot
+Leeroy Jenkins
+Venture Co. Mercenary
+Witchwood Grizzly
+Boulderfist Ogre
+Frozen Crusher
+Hungry Ettin
+Reckless Rocketeer
+Worgen Abomination
+Charged Devilsaur
+Charged Devilsaur
+King Krush
+Sleepy Dragon
+ 
+Mana Curve
+0: 1
+1: 3
+2: 6
+3: 2
+4: 6
+5: 3
+6: 4
+7: 1
+8: 2
+9: 2
+10: 0
+Cards: 
+Dust Devil
+Stonetusk Boar
+Stonetusk Boar
+Voltaic Burst
+Bluegill Warrior
+Bluegill Warrior
+Lorewalker Cho
+Plated Beetle
+Rockbiter Weapon
+Windfury
+Void Ripper
+Wolfrider
+Wolfrider
+Corpsetaker
+Grave Shambler
+Old Murk-Eye
+Stormwind Knight
+Stormwind Knight
+Tidal Surge
+Frostwolf Warlord
+Leeroy Jenkins
+Muck Hunter
+Nightblade
+Venomancer
+Frozen Crusher
+Reckless Rocketeer
+Reckless Rocketeer
+War Golem
+Charged Devilsaur
+Charged Devilsaur
+ 
+Mana Curve
+0: 0
+1: 4
+2: 6
+3: 3
+4: 6
+5: 5
+6: 3
+7: 1
+8: 2
+9: 0
+10: 0
+Cards: 
+Zap!
+Murloc Tidecaller
+Swamp Dragon Egg
+Unstable Evolution
+Faerie Dragon
+Plated Beetle
+Plated Beetle
+Wild Pyromancer
+Harvest Golem
+Kaboom Bot
+Vryghoul
+Hoarding Dragon
+Oasis Snapjaw
+Piloted Reaper
+Weaponized Piñata
+Abomination
+Abomination
+Carnivorous Cube
+Nesting Roc
+Wargear
+Bone Drake
+Cairne Bloodhoof
+Lord of the Arena
+Sylvanas Windrunner
+Stormwind Champion
+Deranged Doctor
+Violet Wurm
+Violet Wurm
+Mecha'thun
+Ultrasaur
+ 
+Mana Curve
+0: 1
+1: 3
+2: 4
+3: 3
+4: 4
+5: 5
+6: 4
+7: 1
+8: 3
+9: 0
+10: 2
+Cards: 
+Goblin Bomb
+Mecharoo
+Swamp Dragon Egg
+Voodoo Doctor
+Golakka Crawler
+Plated Beetle
+Ravasaur Runt
+Alarm-o-Bot
+Happy Ghoul
+Igneous Elemental
+Microtech Controller
+Cursed Disciple
+Cursed Disciple
+Hoarding Dragon
+Hoarding Dragon
+Piloted Reaper
+Ticking Abomination
+Weaponized Piñata
+Abomination
+Azure Drake
+Loose Specimen
+Loose Specimen
+Boulderfist Ogre
+Sylvanas Windrunner
+Sated Threshadon
+Deranged Doctor
+Splitting Festeroot
+Violet Wurm
+Mecha'thun
+Ultrasaur
+ 
+Mana Curve
+0: 0
+1: 4
+2: 3
+3: 4
+4: 7
+5: 4
+6: 2
+7: 1
+8: 3
+9: 0
+10: 2
+Cards: 
+Beakered Lightning
+Zap!
+Goldshire Footman
+Voodoo Doctor
+Bloodfen Raptor
+Crushing Hand
+Tuskarr Fisherman
+Vicious Scalehide
+Windfury
+Youthful Brewmaster
+Blackwald Pixie
+Earthen Ring Farseer
+Eggnapper
+Hyldnir Frostrider
+Jungle Panther
+Lava Burst
+Phantom Militia
+Tanglefur Mystic
+Avalanche
+Coppertail Imposter
+The Darkness
+Bittertide Hydra
+Muck Hunter
+Stampeding Kodo
+Voodoo Hexxer
+Wargear
+Bone Drake
+Boulderfist Ogre
+Frozen Crusher
+Hungry Ettin
+ 
+Mana Curve
+0: 2
+1: 2
+2: 6
+3: 8
+4: 3
+5: 5
+6: 4
+7: 0
+8: 0
+9: 0
+10: 0

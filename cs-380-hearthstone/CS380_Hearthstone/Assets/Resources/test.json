@@ -1,0 +1,19 @@
+{
+    "Players": [
+        {
+            "life": "10",
+            "name": "Kratos",
+            "energy": 100
+        },
+        {
+            "life": "80",
+            "name": "Nathan",
+            "energy": 20
+        },
+        {
+            "life": "90",
+            "name": "Link",
+            "energy": 25
+        }
+    ]
+}
